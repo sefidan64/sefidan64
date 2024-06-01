@@ -121,3 +121,4 @@ packages/protocol/config.js
 daily 2
 daily 3
 daily 4
+daily 5
