@@ -124,3 +124,4 @@ daily 4
 daily 5
 daily 6
 daily 7
+daily 8
