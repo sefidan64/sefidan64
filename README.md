@@ -154,5 +154,6 @@ daily 34
 daily 35
 daily 36
 daily 37
-daily 18
-daily 19
+daily 38
+daily 39
+daily 40
