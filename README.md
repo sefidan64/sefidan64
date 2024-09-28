@@ -192,4 +192,5 @@ daily 72
 daily 73
 daily 74
 daily 75
-daily 78 2mehr
+daily 78 2 mehr
+daily 79 7 mehr
