@@ -195,3 +195,4 @@ daily 75
 daily 78 2 mehr
 daily 79 7 mehr
 daily 80 15 mehr
+daily 81 8 Aban
