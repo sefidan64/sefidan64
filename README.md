@@ -197,3 +197,4 @@ daily 79 7 mehr
 daily 80 15 mehr
 daily 81 8 Aban
 daily 82 2 dey
+daily 83 30 ord
